@@ -3,7 +3,7 @@
 
 ### Обо мне:
 - Меня зовут Саня, я живу в Москве.
-- Любимые клавиши: <kbd>**Ctrl + C**</kbd> <kbd>**Ctrl + V**</kbd> <kbd>**Ctrl + Z**</kbd> <kbd>**F4**</kbd>
+- Любимые клавиши: <kbd>**Ctrl + C**</kbd> <kbd>**Ctrl + V**</kbd> <kbd>**Ctrl + Z**</kbd> <kbd>**Alt + F4**</kbd>
 - Я программист, и учу эти языки: **HTML** **CSS** **JS**
 - Я НЕНАВИЖУ **JS**
 
