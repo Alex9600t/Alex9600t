@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex9600t&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark)
 
 ### Обо мне:
-- Меня зовут Саня, я живу в Москве, Я НЕ ГЕЙ
+- Меня зовут Саня, я живу в Москве.
 - Любимые клавиши: <kbd>**Ctrl + C**</kbd> <kbd>**Ctrl + V**</kbd> <kbd>**Ctrl + Z**</kbd> <kbd>**F4**</kbd>
 - Я программист, и учу эти языки: **HTML** **CSS** **JS**
 - Я НЕНАВИЖУ **JS**
