@@ -23,7 +23,4 @@
 </div>
 
 ### Мои друзья:
-
-   <a href="https://github.com/dimabreus" class="GitHub">
-       <img src="https://avatars.githubusercontent.com/u/125917095?v=4">
-  </a>
+![dimabreus](img/dimabreus.png)
