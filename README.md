@@ -6,6 +6,8 @@
 - Любимые клавиши: <kbd>**Ctrl + C**</kbd> <kbd>**Ctrl + V**</kbd> <kbd>**Ctrl + Z**</kbd> <kbd>**Alt + F4**</kbd>
 - Я программист, и учу эти языки: **HTML** **CSS** **JS**
 - Я НЕНАВИЖУ **JS**
+- <code>for (i = 1; true; i++){
+  console.log(`Я ненавижу js на ${i}%`)}</code>
 
 ### :computer: Статистика:
 
