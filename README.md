@@ -7,7 +7,7 @@
 - Я программист, и учу эти языки: **HTML** **CSS** **JS**
 - Я НЕНАВИЖУ **JS**
 - <code>for (i = 1; true; i++){
-  console.log(`Я ненавижу js на ${i}%`)}</code>
+  console.log(`Я хочу выебать js на ${i}%`)}</code>
 
 ### :computer: Статистика:
 
