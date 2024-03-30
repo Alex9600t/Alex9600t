@@ -22,6 +22,7 @@
   <code><img height="30"  alt="html" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
   <code><img height="30"  alt="css" src="img/css.png"></code>
   <code><img height="30"  alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30"  alt="py" src="img/274375.png"></code>
 </div>
 
 ### Мои друзья:
