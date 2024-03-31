@@ -26,4 +26,4 @@
 </div>
 
 ### Мои друзья:
-// [![dimabreus](img/dimabreus.png)](https://github.com/dimabreus)
+их нет)
