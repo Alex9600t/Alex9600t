@@ -2,6 +2,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Alex9600t&theme=tokyonight&show_icons=true&hide=contribs,issues&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0:&rank_icon=github&locale=ru&border_color=0d1117)
 
 ### Обо мне:
+- я Junior разработчик
 - Меня зовут Саня, я живу в Москве.
 - Любимые клавиши: <kbd>**Ctrl + C**</kbd> <kbd>**Ctrl + V**</kbd> <kbd>**Ctrl + Z**</kbd> <kbd>**Alt + F4**</kbd>
 - Я программист, и учу эти языки: **HTML** **CSS** **JS**
