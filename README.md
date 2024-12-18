@@ -13,6 +13,8 @@ Hi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Alex9600t&theme=tokyonight&layout=compact&custom_title=%D0%A1%D0%B0%D0%BC%D1%8B%D0%B5%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8:&locale=ru&border_color=0d1117&&text_color=70a5d3&title_color=CD5BA5)
 
+[Какой-то лох](https://github.com/wh1teheaven1337)
+
 ### Я использую :computer: :
 
 <div>
