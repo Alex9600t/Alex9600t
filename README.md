@@ -20,3 +20,5 @@ Hi
 
 ### Мои друзья:
 [![dimabreus](img/dimabreus.png)](https://github.com/dimabreus)
+
+![](https://api.bduidan.ru:999/api)
