@@ -1,4 +1,3 @@
-Спасибо за все..
+Прости меня, Дима..
 
-Bduidan
-20.04.25 15:16
+[https://github-readme-stats-omega-orcin-14.vercel.app/api?username=Alex9600t&show_icons=true&theme=radical&locale=ru](https://github-readme-stats.vercel.app/api?username=Alex9600t\&show_icons=true\&theme=radical\&locale=ru)
